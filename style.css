@@ -1,0 +1,25 @@
+body{
+text-align: center;    
+background:radial-gradient(rgb(250, 8, 8),#f36128,rgb(221, 255, 2), rgb(11, 233, 70), rgb(10, 154, 226), rgb(187, 18, 238));
+}
+
+hr{
+border-color:rebeccapurple;  
+}
+
+#camera{
+border-radius:30px;   
+border-style:dashed;
+border-color:black;
+width:350px;
+height:300px;
+}
+
+#result{
+border-radius: 30px;   
+border-style:dashed;
+border-color:black;
+width:350px;
+height:300px;
+}
+
